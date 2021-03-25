@@ -1,17 +1,18 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+    pageEncoding="EUC-KR"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Л∙▄М▄▄ М≥┬М▌≤Л²╢Л╖─</title>
+<meta charset="EUC-KR">
+<title>╬кфд х╗фДюлаЖ</title>
 </head>
 <body>
-	<header>М≈╓К█■ Л·┘К▀┬К▀╓
+	<header>гЛ╢У ют╢о╢ы
+		<div>х╦©Ь╟║ют</div>
 	</header>
-	<article>КЁ╦К╛╦ Л·┘К▀┬К▀╓
+	<article>╨╩╧╝ ют╢о╢ы
 	</article>
-	<footer>М▒╦М└╟ Л·┘К▀┬К▀╓
+	<footer>г╙ем ют╢о╢ы
 	</footer>
 </body>
 </html>
